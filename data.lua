@@ -1,10 +1,23 @@
 require("util")
 
 data:extend({
-{
+	{
+		type = "recipe",
+		name = "delorean",
+		enabled = true,
+		ingredients =
+		{
+			{"engine-unit", 8},
+			{"iron-plate", 20},
+			{"steel-plate", 5}
+		},
+		result = "delorean"
+	},
+	{
 		type = "item-with-entity-data",
 		name = "delorean",
-		icon = "__base__/graphics/icons/car.png",
+		icon = "__delorean__/graphics/icon_frame169.png",
+		icon_size = 256,
 		flags = {"goes-to-quickbar"},
 		subgroup = "transport",
 		order = "b[personal-transport]-a[car]",
@@ -14,7 +27,8 @@ data:extend({
 	{
 		type = "car",
 		name = "delorean",
-		icon = "__base__/graphics/icons/car.png",
+		icon = "__delorean__/graphics/icon_frame169.png",
+		icon_size = 256,
 		flags = {"pushable", "placeable-neutral", "player-creation", "placeable-off-grid"},
 		minable = {mining_time = 1, result = "delorean"},
 		mined_sound = {filename = "__core__/sound/deconstruct-medium.ogg"},
