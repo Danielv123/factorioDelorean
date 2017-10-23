@@ -2,7 +2,7 @@
 {
 "name": "delorean",
 "title": "Delorean",
-"version": "1.0.0",
+"version": "1.1.0",
 "date": "15-08-2017",
 "author": "Danielv123",
 "dependencies": ["base >= 0.14"],

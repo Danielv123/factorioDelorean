@@ -223,323 +223,78 @@ data:extend({
 						{
 							{
 								filename = "__delorean__/graphics/hr_delorean_0.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_1.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_2.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_3.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_4.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
+							},
+							{
+								filename = "__delorean__/graphics/hr_delorean_3.png",
+								width_in_frames = 4,
+								height_in_frames = 4
+							},
+							{
+								filename = "__delorean__/graphics/hr_delorean_4.png",
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_5.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_6.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_7.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_8.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_9.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_10.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_11.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_12.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_13.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_14.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 							{
 								filename = "__delorean__/graphics/hr_delorean_15.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_16.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_17.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_18.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_19.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_20.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_21.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_22.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_23.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_24.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_25.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_26.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_27.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_28.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_29.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_30.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_31.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_32.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_33.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_34.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_35.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_36.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_37.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_38.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_39.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_40.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_41.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_42.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_43.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_44.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_45.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_46.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_47.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_48.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_49.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_50.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_51.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_52.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_53.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_54.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_55.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_56.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_57.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_58.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_59.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_60.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_61.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_62.png",
-								width_in_frames = 2,
-								height_in_frames = 2
-							},
-							{
-								filename = "__delorean__/graphics/hr_delorean_63.png",
-								width_in_frames = 2,
-								height_in_frames = 2
+								width_in_frames = 4,
+								height_in_frames = 4
 							},
 						}
 					}
