@@ -1,11 +1,9 @@
-
 {
 "name": "delorean",
 "title": "Delorean",
-"version": "2.0.1",
-"date": "15-08-2017",
+"version": "3.0.0",
 "author": "Danielv123",
-"dependencies": ["base >= 0.14"],
-"factorio_version": "0.16",
+"dependencies": ["base >= 2.1"],
+"factorio_version": "2.1",
 "description": "Adds the delorean timemachine as a car from Back to the future (note: does not travel in time)"
 }
